@@ -1,6 +1,11 @@
 # flutter_register
 
 A new Flutter project.
+flutter_register is a sample Flutter application created for practice and learning purposes. It provides a simple login or registration screen.
+
+## Screenshots
+
+![app screnshot](assets/app-screenshot.png)
 
 ## Getting Started
 
